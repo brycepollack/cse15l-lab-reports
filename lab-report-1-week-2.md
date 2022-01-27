@@ -2,7 +2,7 @@
 
 ## Tutorial For Logging On Course Specific Account
 
-**Installing VSCode**: Go to [code.visualstudio.com](code.visualstudio.com) and download the installer for your specific OS. Then, follow the setup wizard instructions.
+**Installing VSCode**: Go to [code.visualstudio.com](https://code.visualstudio.com/) and download the installer for your specific OS. Then, follow the setup wizard instructions.
 
 ![Image](ScreenshotVSCodeSetup.png)
 
