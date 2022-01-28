@@ -4,7 +4,7 @@
 
 **Code Change 1**: ![Image](testissue3.png)
 
-Failure-inducing test: [test-issue-3.md](test-issue-3.md)
+Failure-inducing test: [test-issue-3.md](https://brycepollack.github.io/cse15l-lab-reports/test-issue-3.md)
 
 ![Image](symptom3.png)
 
@@ -12,7 +12,7 @@ The bug here is that the while loop breaks when it encounters an unconventional 
 
 **Code Change 2**: ![Image](testissue1.png)
 
-Failure-inducing test: [test-issue-1.md](test-issue-1.md)
+Failure-inducing test: [test-issue-1.md](https://brycepollack.github.io/cse15l-lab-reports/test-issue-1.md)
 
 ![Image](symptom1.png)
 
@@ -20,7 +20,7 @@ The bug here is an infinite loop caused by a parentheses inside of parentheses. 
 
 **Code Change 3**: ![Image](testissue2.png)
 
-Failure-inducing test: [test-issue-2.md](test-issue-2.md)
+Failure-inducing test: [test-issue-2.md](https://brycepollack.github.io/cse15l-lab-reports/test-issue-2.md)
 
 ![Image](symptom2.png)
 
