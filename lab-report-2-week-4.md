@@ -24,4 +24,4 @@ Failure-inducing test: [test-issue-2.md](https://brycepollack.github.io/cse15l-l
 
 ![Image](symptom2.png)
 
-The bug here is that the program recognizes any string inside of parentheses as a link. The symptom is that the program returns an incorrect answer: it returns a list containing what's inside the parentheses instead of an empty list. The failure-inducing input is a string inside of parentheses without any brackets in front of it to denote that it's a link.
+The bug here is that the program recognizes any string inside of parentheses as a link. The symptom is that the program returns an incorrect answer: it returns a list containing what's inside the parentheses instead of an empty list. The failure-inducing input is a string inside of parentheses without any brackets in front of it to denote that it's a link, and is fixed by checking if the link contains brackets denoting that it is in fact a link.
